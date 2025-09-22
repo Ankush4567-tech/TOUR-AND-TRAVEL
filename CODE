@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+< html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -604,11 +603,12 @@
                             <label for="destination">Destination</label>
                             <select id="destination" required>
                                 <option value="">Select Destination</option>
-                                <option value="bali">Bali, Indonesia</option>
-                                <option value="paris">Paris, France</option>
-                                <option value="tokyo">Tokyo, Japan</option>
-                                <option value="newyork">New York, USA</option>
-                                <option value="santorini">Santorini, Greece</option>
+                                <option value="Masoori">Masoori, India</option>
+                                <option value="Goa">Goa, India</option>
+                                <option value="Kashmir">Kashmir, India</option>
+                                <option value="Jaipur">Jaipur, India</option>
+                                <option value="Kerala">Kerala, India</option>
+                                 <option value="Guwahati">Guwahati, India</option>
                             </select>
                         </div>
                         <div class="form-group">
@@ -726,4 +726,4 @@
         setInterval(changeTestimonial, 5000);
     </script>
 </body>
-</html>
+</ht
